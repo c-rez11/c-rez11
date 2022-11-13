@@ -1,3 +1,6 @@
+from winreg import QueryInfoKey
+#for installing something, use 'py -m pip install requests'
+
 print("Hello World")
 print("this is so helpful")
-print("done")
+print("let's refresh this")
