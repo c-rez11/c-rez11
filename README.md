@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @c-rez11
-- 👀 I’m interested in improving my data science skills in Python.
+Hi--I'm Carl. Check out some of my learning or Kaggle competitions in python and SQL.
+    I love working with data and all the ways that it can inform our decision-making.
 
